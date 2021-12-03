@@ -1,0 +1,16 @@
+<iframe frameborder="0" width="100%" height="740" src="https://observablehq.com/embed/@tianbreznik/spiritualistglobe_wip?cells=globe" allowfullscreen="no" style="width: 959.906px; height: 740px;" class=""></iframe>
+ 
+<div id="map">
+</div>
+<div style="text-align: left;
+  padding: 16px;
+  background-color: lightgrey;
+  border: 1px;
+  width: 50%;
+  opacity: 0;
+  color: #f107f0;
+  position: absolute;">
+  City: <span id="City" class="info"></span><br> 
+  Counts: <span id="Counts" class="info"></span><br>
+  Context: <span id="city_context" class="info"></span><br>  
+</div>
